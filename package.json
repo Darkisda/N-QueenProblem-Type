@@ -1,0 +1,10 @@
+{
+  "name": "nqueens",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Darkisda <luandesouzanascimento2011@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.0.3"
+  }
+}
