@@ -4,7 +4,11 @@
   "main": "index.js",
   "author": "Darkisda <luandesouzanascimento2011@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "ts-node ./src/index.ts"
+  },
   "dependencies": {
+    "ts-node": "^9.0.0",
     "typescript": "^4.0.3"
   }
 }
